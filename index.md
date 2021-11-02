@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+<html>
+    <head>
+      <title>Layden's Website</title>
+    </head>
+    <body>
 
-You can use the [editor on GitHub](https://github.com/Devils2Hands/Devils2Hands/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+      <h1>Stewart Brands Life</h1>
+      <p>Brand was born in Rockford, Illinois, and attended Phillips Exeter Academy in New Hampshire. He studied biology at Stanford University, graduating in 1960.[2] As a soldier in the U.S. Army, he was a parachutist and taught infantry skills; he later expressed the view that his experience in the military had fostered his competence in organizing.[3] A civilian again in 1962, he studied design at San Francisco Art Institute, photography at San Francisco State College, and participated in a legitimate scientific study of then-legal LSD, in Menlo Park, California. In 1966, he married mathematician Lois Jennings, an Ottawa Native American.[4]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Brand has lived in California since the 1960s. He and his second wife live on Mirene, a 64-foot (20 m)-long working tugboat. Built in 1912, the boat is moored in a former shipyard in Sausalito, California.[5] He works in Mary Heartline, a grounded fishing boat about 100 yards (90 metres) away.[5] One of his favorite items is a table on which Otis Redding is said to have written "(Sittin' On) The Dock of the Bay". (Brand acquired it from an antiques dealer in Sausalito</p>
+<picture>StewartBrand_3.jpeg</picture>
+    </body>
+</html>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Devils2Hands/Devils2Hands/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
